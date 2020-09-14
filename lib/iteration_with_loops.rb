@@ -15,5 +15,5 @@ def find_min_in_nested_arrays(src)
   weekly_low_temps << low_temp  
   row_index += 1
   end
-
+  weekly_low_temps
 end
